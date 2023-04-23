@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently working on HomesToCompare ™ , a tool that gets you help with your house hunt from
+GPT (smart conversational artificial intelligence)
+  
+  ### [Check out HomesToCompare](https://homestocompare.com)
